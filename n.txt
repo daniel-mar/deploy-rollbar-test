@@ -1,0 +1,2 @@
+cd into folder
+npm i - download packages from package.json (express)
